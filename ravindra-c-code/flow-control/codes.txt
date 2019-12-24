@@ -1,0 +1,30 @@
+WAP
+4) Even-odd.
+5) a) Check the longest no from given numbers using and operator.
+   b) Check the longest no from given numbers using nested if-else.
+6) To check which day falls at what no which is given by user.
+7)  To make simple calculator.
+11) To calculate sum of natural numbers.
+12) To read input until user enters a positive integer.
+13) To read 15 integers from user and print sum of only positive integers.
+14) WAP to read integers until user enters a -ve integer or no of integers read reaches to 15.
+15) To check whether a given no is prime or not.
+16) To find factorial of a given no.
+17) To print half-pyramid taking no of rows as input from user.
+     *
+     **
+     ***
+     ****
+18) To count no of digits in an integer.
+19) To check whether given no is armstrong or not.
+     for compiling it use this
+   $ g 19.armstrongnumber1.c -lm
+20) To print star pattern-3 or pyramid
+                   *
+                  ***
+		 *****
+                *******
+21) To check whether given no is palindrome or not.
+22) To generate fibonacci sequence, given first and second number of the sequence.
+
+
