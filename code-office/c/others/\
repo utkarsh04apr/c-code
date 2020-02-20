@@ -1,0 +1,11 @@
+#include<stdio.h>
+void main()
+{
+int i;
+int a[5];
+for(i=0;i<5;i++)
+{
+scanf("enter element: ",&a[i])
+printf("value of %d element is: ",a[i])
+}
+}
