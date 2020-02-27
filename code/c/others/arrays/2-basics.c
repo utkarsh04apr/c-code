@@ -1,3 +1,6 @@
+/* It takes size of array from user and then takes values of each elements then displays them and size and also addresses of each elements and size of an element */
+
+
 #include<stdio.h>
 int main ()
 {

@@ -1,3 +1,5 @@
+/* It takes size and values of each element of array from users and displays each element, their sum, minnimum and maximum element of array */
+
 #include<stdio.h>
 int main()
 {
@@ -12,13 +14,13 @@ for(i=0;i<size;i++)
 printf("enter value of marks[%d]: ",i);
 scanf("%d",&marks[i]);
 }
-printf("--------------------------------------------------------------------------------------------------\n");
+printf("---------------------------------------------------------------------------------------------------\n");
 printf("displaying elements\n");
 for(i=0;i<size;i++)
 {
 printf("value of marks[%d] is: %d\n",i,marks[i]);
 }
-printf("---------------------------0-----------------------------------------------------------------------\n");
+printf("----------------------------------------------------------------------------------------------------\n");
 printf("displaying sum of all elements\n");
 for(i=0;i<size;i++)
 {
